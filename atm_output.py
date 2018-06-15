@@ -1,7 +1,7 @@
 """
 Created by Soumya Ranjan Rout on 6/15/2018
 """
-from atm_alogoritham.UserData import UserData as Atm
+from UserData import UserData as Atm
 from collections import namedtuple
 
 data_object=Atm()
