@@ -5,21 +5,12 @@ This repository contains python code which will extract user input from a file a
 ```
 Needed only python3 to be installed in the machine where you want to execute.
 ```
-### Test_Input
-```
-This file contain all test inputs/user data.
-```
-```
-Added more test senario.
-```
-### UserData.py
-```
-This is user data class which will take the input from Test_input file and store in a multi dimension list datastucture and return list of user detai.
-```
-### atm_output.py
-```
-This is the main script which inherits from UserData class then proccess the data and return output as expected.
-```
+## Repository detail
+
+* [Test_Input](https://github.com/soumyarout80/Atm_user_transaction/blob/master/Test_Input)-This file contain all test inputs/user data,Added more test senario.
+* [UserData.py](https://github.com/soumyarout80/Atm_user_transaction/blob/master/UserData.py)-This is user data class which will take the input from Test_input file and store in a multi dimension list datastucture and return list of user detai.
+* [atm_output.py](https://github.com/soumyarout80/Atm_user_transaction/blob/master/atm_output.py) - This is the main script which inherits from UserData class then proccess the data and return output as expected.
+
 ### Installing
 ```
 sudo apt-get update
